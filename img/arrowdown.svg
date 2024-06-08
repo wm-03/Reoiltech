@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>WF / desplegable</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <filter x="-17.5%" y="-12.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-2-Home-Voz-D" transform="translate(-482.000000, -179.000000)">
+            <g id="Component/Header/SinFiltro" transform="translate(0.000000, 77.000000)">
+                <g id="Group" transform="translate(148.000000, 18.000000)">
+                    <g id="Icon/Arrow-Open" transform="translate(338.000000, 86.000000)">
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#F2F5F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M20,27.0069573 C19.4975756,27.0394758 18.9844085,26.8540656 18.599051,26.4503196 L9.51712423,16.935024 C8.80284046,16.1866562 8.81835477,14.9809184 9.53964792,14.2541536 L9.26409854,14.5317933 C9.9908218,13.7995572 11.1649391,13.7997408 11.8874546,14.5331084 L20,22.7675033 L28.1125454,14.5331084 C28.8350609,13.7997408 30.0091782,13.7995572 30.7359015,14.5317933 L30.4603521,14.2541536 C31.1816452,14.9809184 31.1971595,16.1866562 30.4828758,16.935024 L21.400949,26.4503196 C21.0155915,26.8540656 20.5024244,27.0394758 20,27.0069573 Z" id="Combined-Shape" fill="#64513D" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
